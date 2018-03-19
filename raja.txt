@@ -1,0 +1,10 @@
+[ 3757.287345] LUCI-FS luci_write_compressed :inode :13 :i_block 23, off 81920(chunk 20) total_in 16384 total_out 2211
+[ 3757.287932] LUCI-FS luci_write_compressed :inode :13 :i_block 27, off 98304(chunk 24) total_in 16384 total_out 1779
+[ 3757.288591] LUCI-FS luci_write_compressed :inode :13 :i_block 31, off 114688(chunk 28) total_in 16384 total_out 1777
+[ 3757.289309] LUCI-FS luci_write_compressed :inode :13 :i_block 35, off 131072(chunk 32) total_in 16384 total_out 2435
+[ 3757.289976] LUCI-FS luci_write_compressed :inode :13 :i_block 39, off 147456(chunk 36) total_in 16384 total_out 1894
+[ 3757.290188] LUCI-FS luci_write_compressed :inode :13 :i_block 40, off 163840(chunk 40) total_in 4096 total_out 951
+[ 3757.290298] LUCI-FS luci_write_compressed :inode :13 :i_block 41, off 163840(chunk 40) total_in 8192 total_out 1272
+[ 3757.290448] LUCI-FS luci_write_compressed :inode :13 :i_block 42, off 163840(chunk 40) total_in 12288 total_out 1749
+[ 3757.290648] LUCI-FS luci_write_compressed :inode :13 :i_block 43, off 163840(chunk 40) total_in 16384 total_out 2164
+[ 3757.291350] LUCI-FS luci_write_compressed :inode :13 :i_block 47, off 180224(chunk 44) total_in 16384 total_out 2175

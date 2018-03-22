@@ -3,7 +3,7 @@
 def lcs(s1,s2):
     n1= len(s1)
     n2= len(s2)
-    mat =[[0 for k in range(n2+1)] for l in range(n1+1)]
+    mat =[[0 for k in range(n2+1)] for l in range(n1+1)] # columns in rows
     max =0
     index =0
     for i in range(n1+1):
